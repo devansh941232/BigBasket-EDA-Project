@@ -51,7 +51,7 @@ This project offers hands-on experience in data analytics, enabling me to explor
 ## 👤 Contact Information
 
 - **Email**: sharmadevanshchd@gmail.com  
-- **LinkedIn**: [Devansh Sharma][(https://www.linkedin.com/in/devansh-sharma/)
+- **LinkedIn**: [Devansh Sharma](https://www.linkedin.com/in/devansh-sharma-981a1a2a6/)
 
 ---
 
